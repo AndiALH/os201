@@ -1,3 +1,6 @@
+OS 2020 1
+Assignments of Week 02: done!
+
 -----BEGIN PGP MESSAGE-----
 Version: BCPG C# v1.6.1.0
 

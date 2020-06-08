@@ -1,15 +1,8 @@
-<!DOCTYPE html>
-<html>
-<body>
-<h1>OS201 AndiALH</h1>
-<h2>Hello World!</h2>
-</body>
-</html>
-
----
----
-
 # OS201 AndiALH
+---
+---
+
+Hello World!
 
 * Hello! My name is Abdurrahman Luqmanul Hakim
 

@@ -2,9 +2,10 @@
 ---
 ---
 
-Hello World!
+# Hello World!
+---
 
-* Hello! My name is Abdurrahman Luqmanul Hakim
+* My name is Abdurrahman Luqmanul Hakim
 
 * Link seputar Sistem Operasi : [URLs](URLs/)
 
